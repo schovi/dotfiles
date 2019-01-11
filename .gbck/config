@@ -1,0 +1,8 @@
+{
+  "url": "git@github.com:schovi/dotfiles.git",
+  "readme": "README.md",
+  "entities": [],
+  "mackup": [
+    "vscode-insiders"
+  ]
+}
